@@ -140,7 +140,6 @@
 /*BOOST Button*/
 .custom .button.y:after{
     content: "BOOST";
-    font-weight: bold;
     right: 65px;
     top: 250px
 }
