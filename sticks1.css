@@ -62,6 +62,7 @@
     display: inline-block;
     position: absolute;
     font-size: 15px;
+    font-weight: bold;
     color: #03b2e1;
     top: -1.5em;
     left: 50%;
@@ -91,6 +92,7 @@
     display: inline-block;
     position: absolute;
     font-size: 14px;
+    font-weight: bold;
     color: #03b2e1;
     top: 50%;
     right: calc(-000%);
@@ -103,6 +105,7 @@
     display: inline-block;
     position: absolute;
     font-size: 15px;
+    font-weight: bold;
     color: #03b2e1;
     top: 50%;
     right: calc(80% + 1.25em);
@@ -137,6 +140,7 @@
 /*BOOST Button*/
 .custom .button.y:after{
     content: "BOOST";
+    font-weight: bold;
     right: 65px;
     top: 250px
 }
